@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Movies_Exam.Views.MovieDetailView">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Eliminar" Command="{Binding DeleteCommand}"/>
+        <ToolbarItem Text="Guardar" Command="{Binding SaveCommand}"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label
+                Text="Descripción de la película"
+                FontAttributes="Bold"
+                FontSize="Title"
+                FontFamily="Large"
+                HorizontalTextAlignment="Center"/>
+
+            <!--Captura de datos-->
+            <Image
+                x:Name="ImagePicture"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                 WidthRequest="50"
+                 HeightRequest="50"
+                 Source="{Binding Image}"
+                />
+            <Entry
+                x:Name="EntryName"
+                Placeholder="Ingresa el nombre"
+                Text="{Binding MovieName}" />
+            <Entry
+                x:Name="EntryCategory"
+                Placeholder="Ingresa la categoría"
+                Text="{Binding MovieCategory}" />
+            <Entry
+                 x:Name="EntryPrice"
+                Placeholder="Ingresa el precio"
+                Keyboard="Numeric"
+                Text="{Binding MoviePrice}" />
+            <Stepper
+                Increment="1"
+                Minimum="0"
+                Maximum="999"
+                Value="{Binding MoviePrice}" />
+            <Entry
+                 x:Name="EntryImage"
+                Placeholder="Ingresa el link de la imagen"
+                Text="{Binding MovieImage}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

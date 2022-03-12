@@ -1,0 +1,17 @@
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\bin\Debug\netstandard2.0\Movies_Exam.deps.json
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\bin\Debug\netstandard2.0\Movies_Exam.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\bin\Debug\netstandard2.0\ref\Movies_Exam.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\bin\Debug\netstandard2.0\Movies_Exam.pdb
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\Movies_Exam.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\Movies_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\Movies_Exam.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\Movies_Exam.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\Movies_Exam.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\Movies_Exam.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\ref\Movies_Exam.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\Movies_Exam.pdb
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\Views\MovieDetailView.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\Movies_Exam\Movies_Exam\obj\Debug\netstandard2.0\Views\MovieListView.xaml.g.cs
